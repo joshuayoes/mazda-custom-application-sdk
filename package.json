@@ -29,6 +29,7 @@
     "run-sequence": "^1.1.5"
   },
   "scripts": {
+    "build": "gulp",
     "build-runtime": "gulp build-runtime",
     "build-install": "gulp build-install"
   },
